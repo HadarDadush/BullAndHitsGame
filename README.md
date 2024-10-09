@@ -14,4 +14,5 @@ and how many digits are correct but in the wrong position (Hits).
 ## Technologies Used
 
 - Java
-- OOP
+- OOP (Object-Oriented Programming)
+- GUI (Graphical User Interface)
