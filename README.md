@@ -1,4 +1,4 @@
-# Bull and Hits Game
+# Bulls and Hits Game
 
 This project is a Java console application that implements a guessing game where players aim to guess a secret 4-digit number.
 The game provides feedback on each guess, indicating how many digits are correct and in the right position (Bulls), 
